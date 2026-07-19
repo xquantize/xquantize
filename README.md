@@ -1,14 +1,12 @@
-# Zane – Deep Learning Engineer and Researcher
+# Hey, I'm Zane
 
 <img src="personal_banner.png" alt="Banner" style="width:100%; border-radius: 8px;">
 
----
+## Deep Learning Engineer & Researcher
 
-### About Me
+I build high-performance vision systems and intelligent tools for industries where reliability and explainability actually matter — not just benchmark scores. My focus is turning messy, real-world data into models that hold up in production and insights that are actually trustworthy.
 
-I’m a deep learning engineer driven by a passion for real-world impact. I build high-performance vision systems and intelligent tools for a range of industries — especially where reliability and explainability matter.
-
-My work focuses on turning raw data into clear insights, using tools like **PyTorch**, **TensorFlow**, and **TensorRT**, and deploying models with **Docker** in challenging, real-time environments.
+I work primarily in **PyTorch**, **TensorFlow**, and **TensorRT**, deploying with **Docker** into real-time, resource-constrained environments where "it works on my machine" isn't good enough.
 
 ---
 
@@ -23,16 +21,22 @@ My work focuses on turning raw data into clear insights, using tools like **PyTo
 
 ---
 
-### Connect with Me
+### Recent Work
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/zane-neave-rex/) if you're interested in collaborating.
+Cleaned, documented datasets and analysis notebooks — sourced straight from official scientific APIs (USGS, Smithsonian GVP), not scraped or recycled:
 
-I’m always open to meaningful conversations, partnerships, and deep tech innovation.
+- [Global Earthquakes 2020–2026](your-link-here) — 11,808 M5.0+ earthquakes, cleaned & documented
+- [Global Volcanic Eruptions: Holocene Record](your-link-here) — 11,089 eruptions across 1,196 volcanoes
+
+---
+
+### Let's Connect
+
+Open to collaborations, remote roles, and conversations about deep tech that 
+actually ships. Reach out on [LinkedIn](https://www.linkedin.com/in/zane-neave-rex/).
 
 ---
 
 ### Outside of Code
 
-When I’m not training models or writing code, I’m probably out **surfing**, playing **football**, or enjoying the coast.
-
----
+You'll usually find me surfing, playing football, or somewhere on the coast.
