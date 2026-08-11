@@ -1,6 +1,6 @@
 # Zane Neave — ML Researcher & Engineer
 
-![Banner](https://github.com/xquantize/xquantize/raw/main/personal_banner.png)
+![Banner](https://github.com/xquantize/xquantize/raw/main/zane-background.png)
 
 ---
 
