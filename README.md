@@ -13,9 +13,12 @@ MSc AI (First Class Hons). By day I lead ML at **Syos Aerospace**: real-time per
 
 ### Selected projects
 
+<!-- TODO retrieval repo row (add as first row below the header when ready):
+| [retrieval-repo](https://github.com/xquantize/TODO) | One-line description + headline metric |
+-->
+
 | Project | What it is |
 |---|---|
-<!-- | [TODO-retrieval-repo](https://github.com/xquantize/TODO) | TODO: one-line description + headline metric | -->
 | [pgvector-rag-pipeline](https://github.com/xquantize/pgvector-rag-pipeline) | Hybrid vector + full-text RAG in PostgreSQL / pgvector, fused with RRF in pure SQL. Evaluation harness: Hit@5 100%, MRR 0.90, nDCG@5 0.93. Runs fully offline on local models. In progress |
 | [meta-ts-correction](https://github.com/xquantize/meta-ts-correction) | Can a tiny corrector recover a frozen time-series foundation model's (Chronos-Bolt) accuracy at a fraction of the compute? Leakage-audited harness validated against M4 Naive2, with Wilcoxon / Diebold–Mariano / Holm testing. In progress |
 | [eqx-zoo](https://github.com/xquantize/eqx-zoo) | Verified Equinox ports of pretrained models, numerically matched against Hugging Face |
