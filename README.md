@@ -11,17 +11,6 @@ MSc AI (First Class Hons). By day I lead ML at **Syos Aerospace**: real-time per
 - **Efficient inference**: quantization, KV-cache tooling, MLX builds for Apple Silicon
 - **Evaluation**: reproducible harnesses, paired significance testing, pre-registered held-out evaluation, honest negative results
 
-### Selected projects
-
-| Project | What it is |
-|---|---|
-| [retrieve-then-match](https://github.com/xquantize/retrieve-then-match) | Two-stage product entity matching: code-aware BM25 + fine-tuned cross-encoder (hit@1 0.938, F1 0.925 on held-out Abt-Buy). Paired significance tests and a pre-registered final evaluation |
-| [pgvector-rag-pipeline](https://github.com/xquantize/pgvector-rag-pipeline) | Hybrid vector + full-text RAG in PostgreSQL / pgvector, fused with RRF in pure SQL. Evaluation harness: Hit@5 100%, MRR 0.90, nDCG@5 0.93. Runs fully offline on local models. In progress |
-| [meta-ts-correction](https://github.com/xquantize/meta-ts-correction) | Can a tiny corrector recover a frozen time-series foundation model's (Chronos-Bolt) accuracy at a fraction of the compute? Leakage-audited harness validated against M4 Naive2, with Wilcoxon / Diebold–Mariano / Holm testing. In progress |
-| [eqx-zoo](https://github.com/xquantize/eqx-zoo) | Verified Equinox ports of pretrained models, numerically matched against Hugging Face |
-| [rl-playground](https://github.com/xquantize/rl-playground) | From-scratch PPO in PyTorch, verified against Stable-Baselines3 on a custom racing environment, with multi-seed ablations |
-| [swellsense](https://github.com/xquantize/swellsense) | A surf assistant for New Zealand surfers that answers questions about boards, swell, spots and safety from cited sources |
-
 ### Open source
 
 Merged contributions focused on device-agnostic support (Apple Silicon / MPS / CPU), correctness fixes and KV-cache tooling.
@@ -32,13 +21,6 @@ Merged contributions focused on device-agnostic support (Apple Silicon / MPS / C
 - **Hugging Face Transformers** *(in review)*: image-text contrastive loss for BLIP-2 image-text retrieval ([#48583](https://github.com/huggingface/transformers/pull/48583))
 
 [All pull requests →](https://github.com/pulls?q=is%3Apr+author%3Axquantize)
-
-### Practice
-
-I keep my fundamentals sharp by implementing ML from scratch: deep learning, linear algebra, optimisation and classical ML.
-
-- [Deep-ML](https://www.deep-ml.com/profile/y5eQDK23TydlcwRhgUfZwKolL0D2): actively solving problems · solutions and labs in [deep-ml](https://github.com/xquantize/deep-ml)
-- [TensorTonic](https://www.tensortonic.com/profile/xquantize)
 
 ### Models & datasets
 
